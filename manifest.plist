@@ -9,7 +9,7 @@
                 <array>
                     <dict>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/swanchia/zzzfun/master/zzzfun.ipa</string>
+                        <string>http://www.zzzfun.com/zapi/update/zzzfun.ipa</string>
  
                         <key>kind</key>
                         <string>software-package</string>
