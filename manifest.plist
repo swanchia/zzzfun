@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>url</key>
+                        <string>https://raw.githubusercontent.com/swanchia/zzzfun/master/zzzfun.ipa</string>
+ 
+                        <key>kind</key>
+                        <string>software-package</string>
+                    </dict>
+                </array>
+ 
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.zzzfun.com</string>
+ 
+                    <key>title</key>
+                    <string>zzzfun</string>
+ 
+                    <key>bundle-version</key>
+                    <string>1.0.2</string>
+ 
+                    <key>kind</key>
+                    <string>software</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
