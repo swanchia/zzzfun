@@ -13,25 +13,13 @@
                     <key>url</key>
                     <string>http://193.112.131.234/ios.php</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>url</key>
-                    <string>https://github.com/xiaoxinyougui/ipa/raw/master/57.png</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>url</key>
-                    <string>https://github.com/xiaoxinyougui/ipa/raw/master/512.png</string>
-                </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.zzzfun.com</string>
+    <string>zzzfun</string>
                 <key>bundle-version</key>
-                <string>1.0.2</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
