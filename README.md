@@ -1,10 +1,10 @@
 ## ZzzFun · 最新网址（2023.10.19 最后编辑时间）
-> 最新域名：[WEB](http://www.zzzfun.one)
+> 最新域名：[点击访问WEB](http://www.zzzfun.one)
 >
 > 老域名已被墙！
 
 ## APP下载地址
-> [APP](http://app.zzzfun.one)
+> [点击下载APP](http://app.zzzfun.one)
 >
 > Android 客户端，下载 app 不迷路，强烈建议下载！！
 
