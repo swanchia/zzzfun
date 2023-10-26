@@ -6,7 +6,7 @@
 ## APP下载地址
 > [APP](http://app.zzzfun.one)
 >
-> 包含 iOS单页版客户端 和 Android 客户端，下载 app 不迷路，强烈建议下载！！
+> Android 客户端，下载 app 不迷路，强烈建议下载！！
 
 
 
